@@ -14,8 +14,8 @@ let dt;
 let oldgamespeed = 4;
 let gameSpeed = 4;
 let oldScore = performance.now(); 
-let jumpSound = new Audio('/Trex_Sound /Trex sound.mp3');
-let gameOverSound = new Audio('/Trex_Sound /Trex game_over sound.mp3');
+let jumpSound = new Audio('Trex sound.mp3');
+let gameOverSound = new Audio('Trex game_over sound.mp3');
 let gameOverSoundPlayed = false;
 
 function whenClick() {
