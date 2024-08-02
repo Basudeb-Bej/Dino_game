@@ -6,7 +6,7 @@ let W = canvas.width = innerWidth;
 let H = canvas.height = innerHeight * .25;
 let framecount = 1;
 let img = new Image();
-img.src = '/componant_images/allimages.png';
+img.src = 'allimages.png';
 let score = 0;
 let highScore = 0;
 let lastTimeCalled = 1;
