@@ -1,6 +1,6 @@
 # Dino Game
 
-This repository contains a simple Dino game implemented in [html/css/JavaScript].
+This repository contains a simple Dino game implemented in [html/css/JavaScript] using 70% chatGPT and 30% my skill.
 
 ## Table of Contents
 
