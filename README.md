@@ -31,9 +31,6 @@ To run the game locally, follow these steps:
 2. Navigate to the project directory:
    ```sh
    cd Dino_game
-3. Install the necessary dependencies:
-   ```sh
-   pip install -r requirements.txt
 
 ## Screenshots
 
