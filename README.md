@@ -7,8 +7,6 @@ This repository contains a simple Dino game implemented in [html/css/JavaScript]
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Screenshots](#screenshorts)
-- [Contributing](#contributing)
 
 ## Introduction
 
